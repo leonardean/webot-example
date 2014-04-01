@@ -14,10 +14,9 @@ var wx_token2 = process.env.WX_TOKEN_2 || 'weixinToken2';
 // 建立多个实例，并监听到不同 path ，
 var webot2 = new webot.Webot();
 
+
 // 载入webot1的回复规则
 require('./rules')(webot);
-// 为webot2也指定规则
-webot2.set('hello', 'hi.');
 
 // 启动机器人, 接管 web 服务请求
 webot.watch(app, { token: wx_token, path: '/wechat' });

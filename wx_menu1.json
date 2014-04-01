@@ -1,0 +1,19 @@
+{
+  "button": [
+    {
+      "name": "账单查询",
+      "sub_button": [
+        {
+          "type": "click",
+          "name": "上周",
+          "key": "bill_last_week"
+        },
+        {
+          "type": "click",
+          "name": "上月",
+          "key": "bill_last_month"
+        }
+      ]
+    }
+  ]
+ }

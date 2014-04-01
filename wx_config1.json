@@ -1,0 +1,26 @@
+{
+  "appid": "wxdff210e6548a2eab",
+  "secret": "66333b7b129109dc145d5b16330f1c9a",
+  "button": [
+    {
+      "name": "账单查询",
+      "sub_button": [
+        {
+          "type": "click",
+          "name": "上周",
+          "key": "bill_last_week"
+        },
+        {
+          "type": "click",
+          "name": "上月",
+          "key": "bill_last_month"
+        }
+      ]
+    }
+  ],
+  "token": {
+    "access_token": "x7KLeXGHVw_VjqbUivN5X-x2VN0_U3PZebH6AZLvF-f1kgEM0mTJwF_UZbB2QsdEhMg2j5UzPNzpaeNEn0wE9jFYotrZVLqaa8ZHH36NW7cVqR-sQ4N3kNQU5lZYo6UuAulrIgm8PC_k4uDTEwt22Q",
+    "expires_in": 7200,
+    "expire_date": "2014-03-21T08:00:51.609Z"
+  }
+}

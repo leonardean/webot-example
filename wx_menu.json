@@ -1,0 +1,29 @@
+{
+  "button": [
+    {
+      "type": "view",
+      "name": "泛商汇",
+      "url": "http://fankahui.com"
+    },
+    {
+      "name": "周边设备",
+      "sub_button": [
+        {
+          "type": "view",
+          "name": "打印机",
+          "url": "http://fankahui.com/#printer58"
+        },
+        {
+          "type": "view",
+          "name": "蓝牙扫描枪",
+          "url": "http://fankahui.com/#barscaner"
+        },
+        {
+          "type": "view",
+          "name": "支架",
+          "url": "http://fankahui.com/#stand2"
+        }
+      ]
+    }
+  ]
+}
